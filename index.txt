@@ -1,0 +1,114 @@
+vCard - Personal Portfolio
+
+# sidebar
+
+alt = Mohammed Thoufiq
+Mohammed Thoufiq
+Web developer
+
+Show Contacts
+
+Email
+mohammedthoufiq9360@gmail.com
+
+Phone
++91 8072776356
+
+Birthday
+Sep 15, 2003
+
+Location
+Natham, Dindigul, TamilNadu, India.
+
+# navbar
+
+About
+Resume
+Projects
+Contact
+
+
+# about
+
+About me
+
+Hi I'm Mohammed Thoufiq, a motivated B.E student majoring in Computer Science, excels in diverse technical skills including C, Java, HTML, CSS, and Python. As a dynamic team member and leader, he has actively contributed to projects like the Fake News Detection and Blog Websites 
+
+commitment to continuous learning is evident through certifications in Full Stack Web Development, along with completing a Web Development Bootcamp on Udemy. With a keen interest in web development
+
+
+## service
+
+What i'm doing
+
+alt = design icon
+Web design
+The most modern and high-quality design made at a professional level.
+
+alt = Web development icon
+Web development
+High-quality development of sites at the professional level.
+
+alt = mobile app icon
+Mobile apps
+Professional development of applications for iOS and Android.
+
+
+# resume
+
+Resume
+
+Education
+
+SRM Valliammai Engineering College
+2021 — 2025 
+B.E Computer Science and Engineering
+
+Ramsun's Matric Hr.Sec.School
+2019 — 2021
+HSC
+
+Ramsun's Matric Hr.Sec.School
+2018 — 2019
+SSLC
+
+certifications
+
+Java Full Stack Development in Green Technologies Date
+
+Web Development Bootcamp on Udemy Date
+
+Soft skills
+
+Communication
+Initiative
+Adaptability
+Time Management
+
+
+# Projects
+
+Project
+
+Design . Date : 
+Fake News Detection 
+Detecting fake news is a layered process that involves analysis of the news contents to determine the truthfulness of the news. The news could contain information in various formats such as text, video, image, etc. 
+
+Design . Date :
+Blog Website
+Blogging is the process that implies creating articles, photos, and other forms of content and publishing them on a website. Its characteristics include informal language, a laid-back atmosphere, regular updates, lifehacks, tips, and a high level of customer engagement.
+
+
+# contact
+
+Contact
+
+Contact Form
+
+Full name
+Email address
+Your Message
+
+Send Message
+
+
